@@ -1,0 +1,31 @@
+body {
+  color: black;
+  font-family: "Limelight", cursive;
+  background: rgb(152, 210, 212);
+  padding: 5%;
+}
+.black-border {
+  background-color: #666;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+}
+#green-background {
+  background-color: green;
+}
+
+.photo {
+  background-color: #e08989;
+  padding: 4px;
+}
+
+img {
+  border-radius: 15%;
+}
+
+.aboutMe {
+  padding: 5%;
+  font-size: small;
+}
